@@ -1,0 +1,35 @@
+body{
+    background-color: pink;
+    
+}
+.top{
+    color:green;
+    position: relative;
+    top:50px;
+
+}
+.img1{
+    width:200px;
+    height:200px;
+    border-radius: 150px;
+}
+.head1{
+    background-color:yellow;
+    width:60px;
+    Height:20px;
+}
+.head3{
+    background-color:yellow;
+    width:100px;
+    Height:20px;
+    
+}
+.head4{
+    background-color:yellow;
+    width:190px;
+    Height:20px;
+}
+h2{
+    color:red;
+}
+
